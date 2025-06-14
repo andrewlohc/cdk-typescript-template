@@ -12,7 +12,7 @@ This project is a template for AWS CDK (Cloud Development Kit) applications usin
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/cdk-typescript-template.git
+   git clone https://github.com/andrewlohc/cdk-typescript-template.git
    cd cdk-typescript-template
    ```
 
